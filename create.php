@@ -11,8 +11,20 @@
         <input type="text" class="form-control" id="name" name="name" placeholder="Digite o nome" required>
       </div>
       <div class="form-group">
-        <label for="phone">Telefone do contato:</label>
-        <input type="text" class="form-control" id="phone" name="phone" placeholder="Digite o telefone" required>
+        <label for="name">Endereço</label>
+        <input type="text" class="form-control" id="name" name="name" placeholder="Digite o Endereço" required>
+      </div>
+      <div class="form-group">
+        <label for="phone">Telefone</label>
+        <input type="text" class="form-control" id="phone" name="phone" placeholder="Digite o Telefone" required>
+      </div>
+      <div class="form-group">
+        <label for="name">Celular</label>
+        <input type="text" class="form-control" id="name" name="name" placeholder="Digite o Celular" required>
+      </div>
+      <div class="form-group">
+        <label for="name">CPF:</label>
+        <input type="text" class="form-control" id="name" name="name" placeholder="Digite o CPF" required>
       </div>
       <div class="form-group">
         <label for="observations">Observações:</label>
